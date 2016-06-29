@@ -1,0 +1,20 @@
+#shelfinfo
+testshelf
+0
+3 1
+
+#bookinfo
+3
+book0
+0
+0  0  0
+0  40 80
+book1
+1
+20 0  0
+20 40 80
+book2
+2
+40 0  0
+40 40 80
+
