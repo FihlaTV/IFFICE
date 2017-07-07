@@ -3,3 +3,5 @@ IFFICE is developed on Atom embedded platform with Moblin operating system, whic
 
 #TODO
 update
+
+IFFICE is MIT licensed.
